@@ -19,6 +19,4 @@ mes = ctk.CTkOptionMenu(janela, values=["Janeiro", "Fevereiro", "Março", "Abril
 
 mes.pack(pady=10)
 
-
-
 janela.mainloop() #Rodando a janela
