@@ -1,7 +1,6 @@
 import customtkinter as ctk #Importando a biblioteca
 from PIL import Image
 
-
 janela = ctk.CTk() #Criar a nossa janela
 
 #Configurando a nossa janela principal
